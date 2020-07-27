@@ -1,0 +1,18 @@
+/Users/cutler 1 2/Documents/Coding/Practice Projects/MGTestWalkingMan/MGTestWalkingManIOS/bin/iPhoneSimulator/Debug/MGTestWalkingManIOS.exe
+/Users/cutler 1 2/Documents/Coding/Practice Projects/MGTestWalkingMan/MGTestWalkingManIOS/bin/iPhoneSimulator/Debug/MGTestWalkingManIOS.pdb
+/Users/cutler 1 2/Documents/Coding/Practice Projects/MGTestWalkingMan/MGTestWalkingManIOS/bin/iPhoneSimulator/Debug/MonoGame.Framework.dll
+/Users/cutler 1 2/Documents/Coding/Practice Projects/MGTestWalkingMan/MGTestWalkingManIOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/cutler 1 2/Documents/Coding/Practice Projects/MGTestWalkingMan/MGTestWalkingManIOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/actool/_PartialAppManifest.items
+/Users/cutler 1 2/Documents/Coding/Practice Projects/MGTestWalkingMan/MGTestWalkingManIOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/actool/_BundleResourceWithLogicalName.items
+/Users/cutler 1 2/Documents/Coding/Practice Projects/MGTestWalkingMan/MGTestWalkingManIOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/coremlc/_PartialAppManifest.items
+/Users/cutler 1 2/Documents/Coding/Practice Projects/MGTestWalkingMan/MGTestWalkingManIOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/coremlc/_BundleResourceWithLogicalName.items
+/Users/cutler 1 2/Documents/Coding/Practice Projects/MGTestWalkingMan/MGTestWalkingManIOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/Default.png
+/Users/cutler 1 2/Documents/Coding/Practice Projects/MGTestWalkingMan/MGTestWalkingManIOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/GameThumbnail.png
+/Users/cutler 1 2/Documents/Coding/Practice Projects/MGTestWalkingMan/MGTestWalkingManIOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/
+/Users/cutler 1 2/Documents/Coding/Practice Projects/MGTestWalkingMan/MGTestWalkingManIOS/obj/iPhoneSimulator/Debug/MGTestWalkingManIOS.csprojAssemblyReference.cache
+/Users/cutler 1 2/Documents/Coding/Practice Projects/MGTestWalkingMan/MGTestWalkingManIOS/obj/iPhoneSimulator/Debug/MGTestWalkingManIOS.csproj.CoreCompileInputs.cache
+/Users/cutler 1 2/Documents/Coding/Practice Projects/MGTestWalkingMan/MGTestWalkingManIOS/obj/iPhoneSimulator/Debug/MGTestWalkingManIOS.csproj.CopyComplete
+/Users/cutler 1 2/Documents/Coding/Practice Projects/MGTestWalkingMan/MGTestWalkingManIOS/obj/iPhoneSimulator/Debug/MGTestWalkingManIOS.exe
+/Users/cutler 1 2/Documents/Coding/Practice Projects/MGTestWalkingMan/MGTestWalkingManIOS/obj/iPhoneSimulator/Debug/MGTestWalkingManIOS.pdb
+/Users/cutler 1 2/Documents/Coding/Practice Projects/MGTestWalkingMan/MGTestWalkingManIOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/Content/charactersheet.png
+/Users/cutler 1 2/Documents/Coding/Practice Projects/MGTestWalkingMan/MGTestWalkingManIOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/Content/charactersheetbigger.png

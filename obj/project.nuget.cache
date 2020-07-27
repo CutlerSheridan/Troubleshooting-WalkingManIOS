@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Ydh1vOfgI1EsajMEx1V+OalaR30lidGyMpTbqTq2xOhQ+kvNljO7ClzKthu52WB5ZGOPftpirOV+9zhTWqqNA==",
+  "success": true,
+  "projectFilePath": "/Users/cutler 1 2/Documents/Coding/Practice Projects/MGTestWalkingMan/MGTestWalkingManIOS/MGTestWalkingManIOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/cutler 1 2/.nuget/packages/monogame.content.builder.task/3.8.0.1375-develop/monogame.content.builder.task.3.8.0.1375-develop.nupkg.sha512",
+    "/Users/cutler 1 2/.nuget/packages/monogame.framework.ios/3.8.0.1375-develop/monogame.framework.ios.3.8.0.1375-develop.nupkg.sha512"
+  ],
+  "logs": []
+}

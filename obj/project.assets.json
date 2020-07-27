@@ -1,0 +1,197 @@
+{
+  "version": 3,
+  "targets": {
+    "Xamarin.iOS,Version=v1.0": {
+      "MonoGame.Content.Builder.Task/3.8.0.1375-develop": {
+        "type": "package",
+        "build": {
+          "build/MonoGame.Content.Builder.Task.props": {},
+          "build/MonoGame.Content.Builder.Task.targets": {}
+        }
+      },
+      "MonoGame.Framework.iOS/3.8.0.1375-develop": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Drawing.Common.dll",
+          "System.Runtime.Serialization"
+        ],
+        "compile": {
+          "lib/xamarinios10/MonoGame.Framework.dll": {}
+        },
+        "runtime": {
+          "lib/xamarinios10/MonoGame.Framework.dll": {}
+        },
+        "build": {
+          "build/MonoGame.Framework.iOS.targets": {}
+        }
+      }
+    },
+    "Xamarin.iOS,Version=v1.0/win": {
+      "MonoGame.Content.Builder.Task/3.8.0.1375-develop": {
+        "type": "package",
+        "build": {
+          "build/MonoGame.Content.Builder.Task.props": {},
+          "build/MonoGame.Content.Builder.Task.targets": {}
+        }
+      },
+      "MonoGame.Framework.iOS/3.8.0.1375-develop": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Drawing.Common.dll",
+          "System.Runtime.Serialization"
+        ],
+        "compile": {
+          "lib/xamarinios10/MonoGame.Framework.dll": {}
+        },
+        "runtime": {
+          "lib/xamarinios10/MonoGame.Framework.dll": {}
+        },
+        "build": {
+          "build/MonoGame.Framework.iOS.targets": {}
+        }
+      }
+    },
+    "Xamarin.iOS,Version=v1.0/win-x64": {
+      "MonoGame.Content.Builder.Task/3.8.0.1375-develop": {
+        "type": "package",
+        "build": {
+          "build/MonoGame.Content.Builder.Task.props": {},
+          "build/MonoGame.Content.Builder.Task.targets": {}
+        }
+      },
+      "MonoGame.Framework.iOS/3.8.0.1375-develop": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Drawing.Common.dll",
+          "System.Runtime.Serialization"
+        ],
+        "compile": {
+          "lib/xamarinios10/MonoGame.Framework.dll": {}
+        },
+        "runtime": {
+          "lib/xamarinios10/MonoGame.Framework.dll": {}
+        },
+        "build": {
+          "build/MonoGame.Framework.iOS.targets": {}
+        }
+      }
+    },
+    "Xamarin.iOS,Version=v1.0/win-x86": {
+      "MonoGame.Content.Builder.Task/3.8.0.1375-develop": {
+        "type": "package",
+        "build": {
+          "build/MonoGame.Content.Builder.Task.props": {},
+          "build/MonoGame.Content.Builder.Task.targets": {}
+        }
+      },
+      "MonoGame.Framework.iOS/3.8.0.1375-develop": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Drawing.Common.dll",
+          "System.Runtime.Serialization"
+        ],
+        "compile": {
+          "lib/xamarinios10/MonoGame.Framework.dll": {}
+        },
+        "runtime": {
+          "lib/xamarinios10/MonoGame.Framework.dll": {}
+        },
+        "build": {
+          "build/MonoGame.Framework.iOS.targets": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MonoGame.Content.Builder.Task/3.8.0.1375-develop": {
+      "sha512": "y9xhEPl9qxswlDpkIZ9maJexAxNKW4a0imegbLkD9DK0PLevoTIqEL0FfjuWishI64R/zok+9Bad+YInw8FKWQ==",
+      "type": "package",
+      "path": "monogame.content.builder.task/3.8.0.1375-develop",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "build/MonoGame.Content.Builder.Task.props",
+        "build/MonoGame.Content.Builder.Task.targets",
+        "build/version/3.8.0.1375-develop/Version.props",
+        "monogame.content.builder.task.3.8.0.1375-develop.nupkg.sha512",
+        "monogame.content.builder.task.nuspec"
+      ]
+    },
+    "MonoGame.Framework.iOS/3.8.0.1375-develop": {
+      "sha512": "7I3BZXLZl41toliHDLkcds9f0jqID5N3E2JpOsG7R8LOC09/ooqN332CK+UgXfWZOzazwlG02+K0zEsXIrZ86g==",
+      "type": "package",
+      "path": "monogame.framework.ios/3.8.0.1375-develop",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "build/MonoGame.Framework.iOS.targets",
+        "lib/xamarinios10/MonoGame.Framework.dll",
+        "lib/xamarinios10/MonoGame.Framework.xml",
+        "monogame.framework.ios.3.8.0.1375-develop.nupkg.sha512",
+        "monogame.framework.ios.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "Xamarin.iOS,Version=v1.0": [
+      "MonoGame.Content.Builder.Task >= 3.8.0.1375-develop",
+      "MonoGame.Framework.iOS >= 3.8.0.1375-develop"
+    ]
+  },
+  "packageFolders": {
+    "/Users/cutler 1 2/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/cutler 1 2/Documents/Coding/Practice Projects/MGTestWalkingMan/MGTestWalkingManIOS/MGTestWalkingManIOS.csproj",
+      "projectName": "MGTestWalkingManIOS",
+      "projectPath": "/Users/cutler 1 2/Documents/Coding/Practice Projects/MGTestWalkingMan/MGTestWalkingManIOS/MGTestWalkingManIOS.csproj",
+      "packagesPath": "/Users/cutler 1 2/.nuget/packages/",
+      "outputPath": "/Users/cutler 1 2/Documents/Coding/Practice Projects/MGTestWalkingMan/MGTestWalkingManIOS/obj/",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "/Users/cutler 1 2/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "xamarinios10"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "xamarinios10": {
+        "dependencies": {
+          "MonoGame.Content.Builder.Task": {
+            "target": "Package",
+            "version": "[3.8.0.1375-develop, )"
+          },
+          "MonoGame.Framework.iOS": {
+            "target": "Package",
+            "version": "[3.8.0.1375-develop, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

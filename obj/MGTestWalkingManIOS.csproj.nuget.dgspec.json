@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/cutler 1 2/Documents/Coding/Practice Projects/MGTestWalkingMan/MGTestWalkingManIOS/MGTestWalkingManIOS.csproj": {}
+  },
+  "projects": {
+    "/Users/cutler 1 2/Documents/Coding/Practice Projects/MGTestWalkingMan/MGTestWalkingManIOS/MGTestWalkingManIOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/cutler 1 2/Documents/Coding/Practice Projects/MGTestWalkingMan/MGTestWalkingManIOS/MGTestWalkingManIOS.csproj",
+        "projectName": "MGTestWalkingManIOS",
+        "projectPath": "/Users/cutler 1 2/Documents/Coding/Practice Projects/MGTestWalkingMan/MGTestWalkingManIOS/MGTestWalkingManIOS.csproj",
+        "packagesPath": "/Users/cutler 1 2/.nuget/packages/",
+        "outputPath": "/Users/cutler 1 2/Documents/Coding/Practice Projects/MGTestWalkingMan/MGTestWalkingManIOS/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/cutler 1 2/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "MonoGame.Content.Builder.Task": {
+              "target": "Package",
+              "version": "[3.8.0.1375-develop, )"
+            },
+            "MonoGame.Framework.iOS": {
+              "target": "Package",
+              "version": "[3.8.0.1375-develop, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
